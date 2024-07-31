@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Henry Ward",
 	"description": "A project that does something awesome",
+	"keywords": [ "freeCodeCamp", "npm", "packages" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
